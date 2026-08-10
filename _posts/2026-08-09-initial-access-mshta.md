@@ -1,5 +1,5 @@
 ---
-title: Gaining Initial Access by absuing mshta
+title: Gaining Initial Access by abusing mshta
 date: 2026-08-09 10:00:00 +0800
 categories: [Red-Team, Initial-Access]  # <-- Add your categories here
 tags: [LOLBIN, TradeCraft]
