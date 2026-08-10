@@ -53,8 +53,6 @@ Right now, I am actively researching:
 
 I am always open to collaborating on research, sharing insights, or discussing the latest in red teaming. Feel free to reach out or check out my latest projects:
 
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername) *(Replace with your link)*
-- **Twitter / X**: [@yourhandle](https://x.com/yourhandle) *(Replace with your link)*
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(Replace with your link)*
+- **GitHub**: [github.com/yourusername](https://github.com/Mahdi-hsz)
 
 Stay curious, and hack the planet responsibly! 🛡️
