@@ -1,5 +1,5 @@
 ---
-title: Weapozing MSI Installers
+title: Weaponizing MSI Installers
 date: 2026-08-15 10:00:00 +0800
 categories: [Red-Team, Weaponization]  # <-- Add your categories here
 tags: [LOLBIN, TradeCraft, Weaponize, ]
