@@ -103,7 +103,7 @@ msiexec /i package.msi /qn
 
 If everything executes correctly, you'll receive a callback on your C2 server. Since the selected injection process (`svchost.exe`) runs with SYSTEM-level privileges, your thread inherits the same elevated access level:
 
-![Beacon-Convention](/assets/img/2026-08-15-weaponizing-msi/callback.png)
+![Callback](/assets/img/2026-08-15-weaponizing-msi/callback.png)
 
 ---
 
